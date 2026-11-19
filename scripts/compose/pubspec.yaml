@@ -1,0 +1,16 @@
+name: store_compose
+description: Composes store screenshots, feature graphics and icons from raw app screens (config driven).
+publish_to: none
+version: 1.0.0
+
+environment:
+  sdk: ^3.5.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  image: ^4.5.0

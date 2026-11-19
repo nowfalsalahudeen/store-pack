@@ -1,0 +1,25 @@
+{
+  "version_code": 1,
+  "play": {
+    "en-US": {
+      "title": "Acme Invoices",
+      "short": "Create and send invoices, track who has paid, and send reminders.",
+      "full": "Acme Invoices helps freelancers and small studios get paid on time.\n\nWhat you can do:\n- Create and send invoices in a minute\n- See who has paid, who is due and who is overdue\n- Send a reminder in one tap\n- Keep clients and expenses in one place\n\nFree to start. No card needed.",
+      "changelog": "First release."
+    }
+  },
+  "apple": {
+    "name": "Acme Invoices",
+    "subtitle": "Invoicing for freelancers",
+    "promo": "Get paid on time, every time.",
+    "keywords": "invoice,freelance,billing,payments,clients",
+    "full": "Acme Invoices helps freelancers and small studios get paid on time.\n\nCreate and send invoices, see who has paid, and send a reminder in one tap.",
+    "release": "First release.",
+    "support_url": "https://acme.example/support",
+    "marketing_url": "https://acme.example",
+    "privacy_url": "https://acme.example/privacy",
+    "primary_category": "BUSINESS",
+    "secondary_category": "PRODUCTIVITY",
+    "copyright": "2026 Acme"
+  }
+}

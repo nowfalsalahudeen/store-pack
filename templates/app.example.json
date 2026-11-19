@@ -1,0 +1,43 @@
+{
+  "name": "Acme Invoices",
+  "style": {
+    "bg": [
+      "#0A192F",
+      "#1F4068"
+    ],
+    "text": "#FFFFFF",
+    "accent": "#2FD3B5",
+    "weight": 800
+  },
+  "play": {
+    "locales": [
+      "en-US"
+    ],
+    "phone": [
+      1080,
+      1920
+    ]
+  },
+  "apple": {
+    "iphone69": [
+      1320,
+      2868
+    ]
+  },
+  "phone": [
+    {
+      "id": "1_dashboard",
+      "raw": "_work/raw/phone/1_dashboard.png",
+      "caption": {
+        "en": "See who has paid at a glance"
+      }
+    },
+    {
+      "id": "2_dashboard",
+      "raw": "_work/raw/phone/1_dashboard.png",
+      "caption": {
+        "en": "Send reminders in one tap"
+      }
+    }
+  ]
+}

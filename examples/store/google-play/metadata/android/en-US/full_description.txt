@@ -1,0 +1,9 @@
+Acme Invoices helps freelancers and small studios get paid on time.
+
+What you can do:
+- Create and send invoices in a minute
+- See who has paid, who is due and who is overdue
+- Send a reminder in one tap
+- Keep clients and expenses in one place
+
+Free to start. No card needed.
